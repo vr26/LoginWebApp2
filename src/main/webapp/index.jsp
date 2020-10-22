@@ -16,7 +16,7 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td>Username</td>
+                        <td>Userid</td>
                         <td><input type="text" name="userid" value="" /></td>
                     </tr>
                     <tr>
@@ -35,8 +35,4 @@
             </center>
         </form>
     </body>
-<<<<<<< HEAD
 </html>
-=======
-</html>
->>>>>>> 2fe2e8ab9980851654c94c30e57b998ccd611b9c
